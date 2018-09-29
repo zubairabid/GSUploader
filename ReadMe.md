@@ -1,6 +1,6 @@
 # Google Script - Uploader
 
-Hello, this is a basic google script uploader that I coded for [Megathon'17](www.megathon.tech), it allows for direct uploads to a pre-specified drive and the code is pretty straight forward, do check it out.
+Hello, this is a basic google script uploader for [Megathon'18](https://megathon.in) as a backup.
 
 
 ## Features
@@ -17,3 +17,6 @@ Hello, this is a basic google script uploader that I coded for [Megathon'17](www
 Contact for queries:
 **_Vivek Kaushal_**
 vivek.kaushal@outlook.com
+
+**Zubair Abid**
+zubairabid1999@gmail.com
