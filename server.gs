@@ -13,7 +13,7 @@ function uploadFileToGoogleDrive(data, file, name, email) {
 
     try {
 
-        var dropbox = "Received Files";
+        var dropbox = "Received";
         var folder, folders = DriveApp.getFoldersByName(dropbox);
 
         if (folders.hasNext()) {
